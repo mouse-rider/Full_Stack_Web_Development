@@ -65,3 +65,5 @@ Usually one would type the URL of the website inside a default web browser to vi
 www.selflearnwithus.com
 Step 2:
 Your local machine sends a request in form of a packets, which has the IP('Internet Protocol') address of the website you wantt to visit.
+
+![alt text](http://url/to/img.png)
