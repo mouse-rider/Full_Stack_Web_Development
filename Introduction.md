@@ -68,4 +68,4 @@ Your local machine sends a request in form of a packets, which has the IP('Inter
 
 ![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/HTTP_RequestMessage.png?raw=true)
 
-![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/HTTP_RequestMessage.png?raw=true)
+![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/Internet_request.png?raw=true)
