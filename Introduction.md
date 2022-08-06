@@ -91,7 +91,7 @@ Your ISp re-routes this request to the corresponding server location, using IP a
 Generally a server  is a device that provides seervices to other devices.<br>
 In other words, devixes will request access to an HTML file form our server, and our serrver will return the HTML file to that device.<br>
 
-![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/server.jpeg?raw=true)<br>
+![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/server.jpg?raw=true)<br>
 
 You might ghave seen the above picture of server in movies.<br>
 
