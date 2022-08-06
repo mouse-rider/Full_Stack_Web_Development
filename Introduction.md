@@ -1,4 +1,4 @@
-<h1>In this course,</h1> we will be covering the entire full stack web development, enabling each one of you to build an entire right website right form scratch.
+<h1>In this course,</h1> We will be covering the entire full stack web development, enabling each one of you to build an entire right website right form scratch.
 
 We have several sections in our course and each section is organized based on the specific item
 
@@ -43,16 +43,16 @@ Now that we have successfully downloaded and installed atom and google, let's pr
 Use any off the text editor and web browser of your choice.
 Even before we talk about web development, its timme for same general basic questions 
 
-What is the web?
+<em>What is the web?</em>
 The World Wide Web, commonly known as th Web, is an information system Where documents and other web resource are identified by Uniform Resource Locators, which may be interlinked by hypertext, and are accessible over the Internet.
 
-Why we use web?
+<em>Why we use web?</em>
 Web sefvices are a way to expose a functionality of your website to the outside world so that other applications can use it. Moreover, If you want some data from your web site to be visible to other devices like android or iOS then you can expose this data using web services and it can be consumend in android or iOS or Windows or any other platform fr that matter.
 
-How to develop website?
+<em>How to develop website?</em>
 Create a file for each page of the website using HTML(Hypertext Markup Language) that gives the content of the page . To do this, you will typically pay an Internet Service Provider (ISP) for web Hosting, and move your files to their server using FTP (File Transfer Protocol).
 
-who invented website?
+<em>Who invented website?</em>
 Tim Berners-Lee
 The first web page went live on August 6, 1991. It was dedicated to information on the World Wide Web project and was made by Tim Berners-Lee. It ran on a NeXT computer at the European Organization for Nuclear Research, CERN. The first web page address was http://info.cern.ch/hypertext/WWW/TheProject.html .
 
