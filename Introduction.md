@@ -72,6 +72,113 @@ Your local machine sends a request in form of a packets, which has the IP('Inter
 
 ![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/Internet_request.png?raw=true)
 
+www.selflearnwithus.com <br>
+IP 123.456.789.10  ==>
+
 ![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/HTTP_RequestMessage.png?raw=true)
 
+<br>
 
+Step 3:<br>
+Then a computer generally sends this request using wires using your ISP (Internet Service Provider).<br>
+
+Step 4:<br>
+Your ISp re-routes this request to the corresponding server location, using IP address as a guide.<br>
+
+![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/server_responce.png?raw=true)<br>
+
+<em>What is the server?</em><br>
+Generally a server  is a device that provides seervices to other devices.<br>
+In other words, devixes will request access to an HTML file form our server, and our serrver will return the HTML file to that device.<br>
+
+![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/server.jpeg?raw=true)<br>
+
+You might ghave seen the above picture of server in movies.<br>
+
+<br>
+
+Simple way to understand<br>
+<em>What is the server?</em><br>
+A server is a device that will accept the request and send back the responce to the user.<br>
+<br>
+
+Step 5:<br>
+Once your request reaches the server, it can now send back the website you asked for.<br>
+<br>
+
+Step 6:<br>
+But generally a complete website with so much content is very big in size to send as a single packet of data which is a problem.<br>
+<br>
+
+Step 7:<br>
+To resolve this issue, the server will send back the website which is divided into many small packets of data.<br>
+<br>
+
+Step 8:<br>
+These packets come with certain instrictions on how to get back to requested end user adn finally reassembles to display the website.<br>
+<br>
+
+Step 9:
+These packets don't mind what path they follow to reach the final end user, but their objective is just reach the final location of request made.
+
+![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/packet-switching.png?raw=true)<br>
+
+Step 10:<br>
+Once these packets reach the final end user, they are reassembled to show the requested web page in correct formate.<br>
+<br>
+
+Step 11:<br>
+All of this process happens at speed off light (29 979 2458 m/s) 3×10<sup>8</sup> m/s, so it happens extremely faster.<br>
+<br>
+<br>
+
+Let's continue our discussion further by conversing what is ment is "Full-Stack"<br>
+<br>
+So, mainly there are two main components of any website <br>
+1. The Front-End <br>
+2. The Back-End <br>
+3. Database Management <br>
+
+<br>
+
+The Front-End is what one sees as a final end user on the website.
+<br>
+The Back-End uses technology to display content on the Front-End.
+
+<br><br>
+
+The Front-End revolves around the following technologies:
+1. HTML
+2. CSS
+3. JavaScript
+4. jQuery
+5. Bootrtrap
+
+<br>
+Now let's start discussing the above technologies one by one.
+<br>
+
+First let's start our session by talking about HTML.<br>
+<br>
+![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/HTML.png?raw=true)<br>
+
+~ HTML stands for - Hypertext Markup Language <br>
+~ Every website will have HTML, it is the general structure of a page.<br>
+~ HTML (Hypertext Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content.<br>
+~ "Hypertext" refers to links that connect webpages to one another, either within a single website or between websites.<br>
+~ Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other peole, you become an active participant in the World Wide Web.<br>
+~ That's a brief introduction about HTML<br>
+<br>
+<br>
+
+Now, let's talk about the next lenguage CSS
+![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/CSS3.png?raw=true)<br>
+
+~ CSS stands for - Cascading Style Sheets<br>
+~ CSS is the actual styling of website.(Most website have it)<br>
+~ But even without CSS we can develop basic web apps but they wont look appealing.<br>
+~ Colors, fonts, borders, and many more are all defined by CSS.<br>
+~ CSS is not mandatory to have, but mostly all sites have it.<br> 
+~ That is a brief introduction about CSS.<br>
+<br>
+<br>
