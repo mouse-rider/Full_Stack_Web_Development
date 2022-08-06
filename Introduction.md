@@ -66,4 +66,4 @@ www.selflearnwithus.com
 Step 2:
 Your local machine sends a request in form of a packets, which has the IP('Internet Protocol') address of the website you wantt to visit.
 
-![alt text]([image/internet_request.png](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/HTTP_RequestMessage.png?raw=true))
+![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/HTTP_RequestMessage.png?raw=true)
