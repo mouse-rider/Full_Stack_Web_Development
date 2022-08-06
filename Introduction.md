@@ -1,4 +1,4 @@
-In this course, we will be covering the entire full stack web development, enabling each one of you to build an entire right website right form scratch.
+<h1>In this course,</h1> we will be covering the entire full stack web development, enabling each one of you to build an entire right website right form scratch.
 
 We have several sections in our course and each section is organized based on the specific item
 
