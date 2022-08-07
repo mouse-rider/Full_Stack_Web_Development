@@ -91,7 +91,7 @@ Your ISp re-routes this request to the corresponding server location, using IP a
 Generally a server  is a device that provides seervices to other devices.<br>
 In other words, devixes will request access to an HTML file form our server, and our serrver will return the HTML file to that device.<br>
 
-![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/server.jpg?raw=true)<br>
+![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/server.jpeg?raw=true)<br>
 
 You might ghave seen the above picture of server in movies.<br>
 
@@ -182,3 +182,84 @@ Now, let's talk about the next lenguage CSS
 ~ That is a brief introduction about CSS.<br>
 <br>
 <br>
+
+Now let's talk about the next technology which is a very important one.<br>
+And that is JavaScript makes the website responsive.
+
+![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/javascript.png?raw=true)<br>
+<br>
+~ The reason I said JS is importsnt is that, the earlier two languages are static Unlike JavaScript <br>
+~ The difference between stactic website and dynamic website is as follows <br>
+~ static website are ones that are fixed and display the same content for every yser, usually written exclusively in HTML. <br>
+~ A dynamic website, on the other hand, is one that can display differrent content and provide user interaction, by making use of advanced programming and databases in adding to HTML. <br>
+<br>
+~ JavaScript also allows you to add interactivity to a website, including the programming logic.<br>
+~ Any site with interactivity uses JavaScript in some way or othrt, because otherwise the site is a "static" website.<br>
+~ In the beginning of the course, we will discuss Front-End.<br>
+~ The Front-End always uses HTML, CSS, JavaScript technologies.<br>
+~ But we will also discuss BOOTSTRAP and jQuery<br>
+~ On the other hand, as far as back end is concerned, there are so many options to choose from! <br>
+<br>
+<br>
+
+~ The Back-End of any website generally has three mainly components:<br>
+1. The Language <br>
+2. The Framework <br>
+3. The Database <br>
+~ So many technologies such as PHP, Node.js, Ruby/Rails, Java, Python, etc. are all possible choices for any website. <br>
+~ <em>So how do we decided which to choose form so many such options available?</em><br>
+~ You are free to choose your own technology. But in this course, we use the below <br>
+1. Python and php as the language<br>
+2. Django as the framework<br>
+3.  SQLite and MySQL as the Database<br>
+
+~ The reason we chose Python is, it is a great language to learn, it's simple, powerful, and has many libraries.<br>
+~ Similarly, the reason to choose Django is, it is the most popular framework for Python, it's fast, secure and scalable.<br>
+~ SQLite, by default comes with Django and Python making it an easy choice.
+~ But we will discuss other SQL databases as well in this course<br>
+~ As we continue ,we shall be discussing each of these topics in detail.
+<br><br><br>
+
+<em>What is a programming language ?</em><br>
+A programming language is a vocabulary and set of grammatical rules for instructing a computer or computer device to perform specific tasks. The term programming language usually refers to high-level languages <br>
+<br>
+
+<em>What isframework in web design ?</em><br>
+In the world of web design, to give a more straightforward definition, a framework is defined as a package made up od structure of files and foldersof standardized code (HTML, CSS, JS documents etc.) which can be used to support the development of websites, as a basic to start building a site.<br>
+<br>
+
+<em>What is database ?</em><br>
+A database is a structure that stores organized information. Most database contain multiple tables, which may each include several different fields. For example, a company database may include tables for products, employees and financial records.
+<br><br>
+
+~ I hope by you've got an idea about what is front end, backend development.<br>
+~ As far as career is concerned, you can only be a front end developer<br>
+~ You can only be a back end web developer<br>
+~ Or you can also be a FULL STACK DEVELOPER by mastering both front end and back end and integration.<br>
+~ Later we need to learn hosting and deployment<br>
+~ Finally we will develop some web applications.<br>
+<br>
+<br>
+
+~ Now, Let's discuss career opportunities of a full stack web developer.<br>
+~ You can master front end first <br>
+~ Then learn backend web development<br>
+~ Finally learn about databases<br>
+~ After you complete all the above steps, learn about hosting and deployment <br>
+~ Build a few projects on your own to be ahead of the competition.<br>
+~ In this course, I will discuss all the above mentioned topics.<br>
+<br><br>
+
+<em>What is ment by full stack development?<em><br>
+A full stack developer is a web developerr or engineer who works with both front and back end of a website or application-meaning they can tackle projects that involve databases, building user-facing websites, or even work with clients during the planning phase of projects.<br>
+<br>
+<em>Why choose full stack web developer as a career?</em><br>
+1. Huge Demand for Full Stack Developers<br>
+2. Lucrative Remuneration<br>
+3. Growth Prospects <br>
+4. Diversified Job Oppertunities <br>
+5. Easy to Learn<br>
+6. Flexibility <br>
+7. Get Hired By Best Employers <br>
+
+
