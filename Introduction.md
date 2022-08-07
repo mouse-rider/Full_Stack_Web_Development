@@ -261,5 +261,26 @@ A full stack developer is a web developerr or engineer who works with both front
 5. Easy to Learn<br>
 6. Flexibility <br>
 7. Get Hired By Best Employers <br>
+<br><br>
 
+<em>Domains of full stack web development:</em><br><br>
+Having domain knowledge is more important than your technical skills while working for a corporate company. Below are some domains you will work<br>
+<br><br><br>
+
+~ Backend Architecture<br>
+~ Mobile app Development<br>
+~ Backend and Framework technologies<br>
+~ Front-end technologies <br>
+~ Database Technologies<br>
+~ Cloud Services.<br>
+~ Version Control System (VCS) and Debugging<br>
+~ Devops<br>
+<br><br>
+
+<em>What is a domain?</em><br>
+A domain is nothing but core knowledge of any particular sevtor, specific industry or nature of a business.<br>
+Web developers should be effective at learning new business domains and be able to translate that knowledge into eliciting requirements.<br>
+<br><br>
+
+![alt text](https://github.com/mouse-rider/Full_Stack_Web_Development/blob/main/image/domain.jpg?raw=true)<br>
 
