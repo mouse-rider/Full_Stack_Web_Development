@@ -250,7 +250,7 @@ A database is a structure that stores organized information. Most database conta
 ~ In this course, I will discuss all the above mentioned topics.<br>
 <br><br>
 
-<em>What is ment by full stack development?<em><br>
+<em>What is ment by full stack development?</em><br>
 A full stack developer is a web developerr or engineer who works with both front and back end of a website or application-meaning they can tackle projects that involve databases, building user-facing websites, or even work with clients during the planning phase of projects.<br>
 <br>
 <em>Why choose full stack web developer as a career?</em><br>
